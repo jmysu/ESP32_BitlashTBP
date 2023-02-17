@@ -7,7 +7,7 @@ Script interpreters inside: <br>
 2) TinyBasicPlus V0.15j <br>
  
    
-<img src="BitlashTBP.png" width="50%"> <img src="BitlashTBP_Depends.png" width="50%"> <br>
+<img src="BitlashTBP.png" width="40%"> <img src="BitlashTBP_Depends.png" width="40%"> <br>
 
 ---
 ## References
