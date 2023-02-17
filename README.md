@@ -13,4 +13,4 @@ Script interpreters inside: <br>
 
 ---
 ## References
-  - [Bitlash](http://bitlash.net/) Bitlash: a programmable command shell for arduino. <br>
+  - [Bitlash](http://bitlash.net/) A programmable command shell for arduino. <br>
