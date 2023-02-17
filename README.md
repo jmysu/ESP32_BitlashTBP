@@ -3,9 +3,9 @@
 
 
 Script interpreters inside: <br>
-1) Bitlash ESP32 V2.1 w/ TinyBasicPlus function added<br>
+1) Bitlash ESP32 V2.1j w/ TinyBasicPlus function added<br>
    https://github.com/lumostor/bitlash-esp32<br>
-2) TinyBasicPlus V0.15<br>
+2) TinyBasicPlus V0.15j <br>
    https://github.com/BleuLlama/TinyBasicPlus<br>
  
    
