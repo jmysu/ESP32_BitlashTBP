@@ -13,4 +13,4 @@ Script interpreters inside: <br>
 ## References
   - [Bitlash](http://bitlash.net/) A programmable command shell for arduino. <br>
   - [TinyBasic+](https://github.com/BleuLlama/TinyBasicPlus) A C implementation of Tiny Basic. <br>
-  - [TinyBasic WiKi](https://en.wikipedia.org/wiki/Tiny_BASIC) TinyBasic WiKi. <br>
+  - [TinyBasic WiKi](https://en.wikipedia.org/wiki/Tiny_BASIC) TinyBasic Wikipedia page. <br>
