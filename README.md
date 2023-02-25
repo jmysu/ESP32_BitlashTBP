@@ -8,7 +8,7 @@ Script interpreters inside: <br>
  
    
 <img src="BitlashTBP.png" width="48%"> <img src="BitlashTBP_Depends.png" width="50%"> <br>
-<img src="BitlashFS0228.png width="75%"> <br>
+<img src="BitlashFS0228.png" width="75%"> <br>
 
 ---
 ## References
